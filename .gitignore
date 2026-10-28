@@ -1,0 +1,20 @@
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+venv/
+
+# 本机配置与日志（含个人自选/屏幕位置）
+config.json
+goldinfo.log
+*.log
+
+# 打包中间产物
+build/
+dist/
+*.spec
+GoldInfo.exe
+
+# 临时解压目录
+temp/
+_MEI*/
